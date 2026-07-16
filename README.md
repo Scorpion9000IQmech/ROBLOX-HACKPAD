@@ -26,3 +26,8 @@ the screen is plugged into the connectors, and the same goes for the joystick
 ---
 | Item | Price | source |
 |---|---|---|
+| PCB | 8.1 USD | Plus shipping(JLPCB) |
+| XiaoRP2040 | 5.93 USD | [Ali Express](https://a.aliexpress.com/_c4q1RiOr) |
+| Keyboard switches | 10.4 USD | [Ali Express](https://a.aliexpress.com/_c4oDU77V) |
+| 0.91 OLED | 2.91 USD | [Ali Express](https://a.aliexpress.com/_c4tRPQxp) |
+| HW-504 joystick | 7.8 USD | [Ali Express](https://a.aliexpress.com/_c3pqUAtd) |
